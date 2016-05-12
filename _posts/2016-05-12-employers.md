@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: How is mentoring used in an enterprise?
-datePublished: '2016-05-12T02:10:02.885Z'
-dateModified: '2016-05-12T01:54:29.900Z'
+datePublished: '2016-05-12T02:10:36.249Z'
+dateModified: '2016-05-12T02:10:14.211Z'
 title: Employers
 author: []
+sourcePath: _posts/2016-05-12-employers.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-12-employers.md
 url: employers/index.html
 _type: Article
 
