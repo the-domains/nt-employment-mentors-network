@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Guides
-datePublished: '2016-05-12T03:45:29.412Z'
-dateModified: '2016-05-12T03:35:54.057Z'
+datePublished: '2016-05-12T04:15:34.511Z'
+dateModified: '2016-05-12T04:15:07.539Z'
 title: Resources
 author: []
+sourcePath: _posts/2016-05-12-resources.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-12-resources.md
 url: resources/index.html
 _type: Article
 
@@ -76,8 +76,6 @@ _type: Article
 [Australian Youth Mentoring Network][18]
 
 The Australian Youth Mentoring Network is a national hub for youth mentoring funding, research, tools and resources.
-
-
 
 [0]: https://www.google.com.au/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiGub7IxtPMAhVnx6YKHRyDAfMQFggfMAA&url=http%3A%2F%2Fwww.csrm.uq.edu.au%2Fdocs%2FFinal%2520mentoring%2520web%2520paper.pdf&usg=AFQjCNFqRIHltZgaeEWV8C8BaxTzdSlS7Q&sig2=HWDny6uB_KyrhUKDfRtCnQ
 [1]: https://www.google.com.au/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj_nObZxtPMAhUk2qYKHXDyAy4QFggcMAA&url=http%3A%2F%2Fwww.justiceaction.org.au%2Fcms%2Fimages%2Fstories%2FCmpgnPDFs%2Fjamentrshk.pdf&usg=AFQjCNFrvQ9Ta-JsZNgy4pjgJiSbLqVEug&sig2=K_W4D6xUvorXDq8Y1FmPlw
