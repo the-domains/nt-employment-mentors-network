@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Student Focused Mentoring Initiatives
-datePublished: '2016-05-12T04:18:46.969Z'
-dateModified: '2016-05-12T04:18:37.676Z'
+datePublished: '2016-05-12T07:03:06.083Z'
+dateModified: '2016-05-12T07:02:59.648Z'
 title: Educators
 author: []
 sourcePath: _posts/2016-05-12-educators.md
@@ -18,7 +18,7 @@ publisher:
   favicon: null
 starred: false
 url: educators/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Educators
