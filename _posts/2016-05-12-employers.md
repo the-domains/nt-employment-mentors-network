@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: How is mentoring used in an enterprise?
-datePublished: '2016-05-12T07:03:46.759Z'
-dateModified: '2016-05-12T07:03:34.155Z'
+datePublished: '2016-05-12T23:15:48.194Z'
+dateModified: '2016-05-12T23:13:34.529Z'
 title: Employers
 author: []
 sourcePath: _posts/2016-05-12-employers.md
@@ -67,7 +67,7 @@ Mentoring in this context can be used to:
 
 [Indigenous Wage Subsidies][0]
 
--- Employers who want to employ Aboriginal and Torres Strait Islander peoples can get financial help from the Australian Government.
+Employers who want to employ Aboriginal and Torres Strait Islander peoples can get financial help from the Australian Government.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13b1177e-827a-47de-ba2e-05d6464684fe.jpg)
 
 [0]: https://www.employment.gov.au/long-term-unemployed-and-indigenous-wage-subsidy
