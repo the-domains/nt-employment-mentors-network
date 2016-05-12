@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Guides
-datePublished: '2016-05-12T05:06:56.201Z'
-dateModified: '2016-05-12T05:05:14.575Z'
+description: ''
+datePublished: '2016-05-12T23:35:20.942Z'
+dateModified: '2016-05-12T23:35:19.840Z'
 title: Resources
 author: []
 sourcePath: _posts/2016-05-12-resources.md
@@ -25,7 +25,11 @@ _type: Article
 
 ****
 
+[****][0]
+
 [**Central Australian Mentors Services Directory- **available via Dropbox][0][****][0]
+
+****
 
 **Guides**
 
@@ -34,6 +38,8 @@ _type: Article
 [Friends of Justice Action Mentoring- Mentor Handbook 2008][2]
 
 [Mentoring Made Easy- A Practical Guide][3]
+
+****
 
 **Training & Programs**
 
@@ -45,15 +51,21 @@ _type: Article
 
 [Training New Mentors- Effective Strategies, Youth Mentoring][7]
 
+****
+
 **Benchmarking**
 
 [Australian Youth Mentoring Benchmarks][8]
+
+****
 
 **Workforce Development**
 
 [WA Indigenous Workforce Development Strategy][9]
 
 [RIO Tinto Indigenous Employment][10]
+
+****
 
 **Agreements**
 
@@ -62,6 +74,8 @@ _type: Article
 [Mentoring Agreement Template][12]
 
 [Negotiating an Agreement][13]
+
+****
 
 **Interesting Websites**
 
@@ -75,11 +89,11 @@ _type: Article
 
 [Training WA Aboriginal Workforce Development Centre][18]
 
+****
+
 **Other Networks**
 
-[Australian Youth Mentoring Network][19]
-
-The Australian Youth Mentoring Network is a national hub for youth mentoring funding, research, tools and resources.
+The [Australian Youth Mentoring Network][19] is a national hub for youth mentoring funding, research, tools and resources.
 
 [0]: https://www.dropbox.com/s/kvn7nzi3mgbm140/CAMentorsServicesDirectoryAddressesPhnos%281%29.pdf?dl=0
 [1]: https://www.google.com.au/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiGub7IxtPMAhVnx6YKHRyDAfMQFggfMAA&url=http%3A%2F%2Fwww.csrm.uq.edu.au%2Fdocs%2FFinal%2520mentoring%2520web%2520paper.pdf&usg=AFQjCNFqRIHltZgaeEWV8C8BaxTzdSlS7Q&sig2=HWDny6uB_KyrhUKDfRtCnQ
