@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: How is mentoring used in an enterprise?
-datePublished: '2016-05-12T02:10:36.249Z'
-dateModified: '2016-05-12T02:10:14.211Z'
+datePublished: '2016-05-12T07:03:46.759Z'
+dateModified: '2016-05-12T07:03:34.155Z'
 title: Employers
 author: []
 sourcePath: _posts/2016-05-12-employers.md
@@ -18,7 +18,7 @@ publisher:
   favicon: null
 starred: false
 url: employers/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Employers
