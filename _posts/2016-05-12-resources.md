@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Guides
-datePublished: '2016-05-12T04:15:34.511Z'
-dateModified: '2016-05-12T04:15:07.539Z'
+datePublished: '2016-05-12T04:59:35.130Z'
+dateModified: '2016-05-12T04:58:04.421Z'
 title: Resources
 author: []
 sourcePath: _posts/2016-05-12-resources.md
@@ -22,6 +22,10 @@ _type: Article
 
 ---
 # Resources
+
+****
+
+**Central Australian Mentors Services Directory**
 
 **Guides**
 
