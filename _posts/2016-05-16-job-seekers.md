@@ -1,14 +1,15 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Employment Service Providers are agencies that provide various kinds of support for people looking for work. There are many providers across Australia delivering different kinds of assistance, including mentoring.'
-datePublished: '2016-05-16T00:02:52.984Z'
-dateModified: '2016-05-16T00:02:45.537Z'
+datePublished: '2016-05-16T00:19:55.278Z'
+dateModified: '2016-05-16T00:19:44.848Z'
 title: Job Seekers
 author: []
+sourcePath: _posts/2016-05-16-job-seekers.md
 authors: []
 publisher:
   name: null
@@ -16,9 +17,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-16-job-seekers.md
 url: job-seekers/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Job Seekers
