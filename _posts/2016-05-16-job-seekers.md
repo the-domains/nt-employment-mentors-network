@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Employment Service Providers are agencies that provide various kinds of support for people looking for work. There are many providers across Australia delivering different kinds of assistance, including mentoring.'
-datePublished: '2016-05-16T00:19:55.278Z'
-dateModified: '2016-05-16T00:19:44.848Z'
+datePublished: '2016-05-16T00:44:33.180Z'
+dateModified: '2016-05-16T00:44:24.806Z'
 title: Job Seekers
 author: []
 sourcePath: _posts/2016-05-16-job-seekers.md
