@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Student Focused Mentoring Initiatives
-datePublished: '2016-05-12T07:03:06.083Z'
-dateModified: '2016-05-12T07:02:59.648Z'
+datePublished: '2016-05-28T02:59:14.756Z'
+dateModified: '2016-05-16T00:44:56.202Z'
 title: Educators
 author: []
 sourcePath: _posts/2016-05-12-educators.md
