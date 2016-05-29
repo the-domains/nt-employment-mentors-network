@@ -5,17 +5,13 @@ inNav: true
 inLanguage: null
 keywords: []
 description: How is mentoring used in an enterprise?
-datePublished: '2016-05-13T05:03:51.816Z'
-dateModified: '2016-05-13T05:03:38.764Z'
+datePublished: '2016-05-29T00:47:51.762Z'
+dateModified: '2016-05-29T00:47:47.872Z'
 title: Employers
 author: []
 sourcePath: _posts/2016-05-12-employers.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: employers/index.html
 _type: WebPage
@@ -78,6 +74,6 @@ To develop respect and a better understanding between staff from different cultu
 [Indigenous Wage Subsidies][0]
 
 Employers who want to employ Aboriginal and Torres Strait Islander peoples can get financial help from the Australian Government.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13b1177e-827a-47de-ba2e-05d6464684fe.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c89d06b809146f57db8dab554729bc651228f74.jpg)
 
 [0]: https://www.employment.gov.au/long-term-unemployed-and-indigenous-wage-subsidy
