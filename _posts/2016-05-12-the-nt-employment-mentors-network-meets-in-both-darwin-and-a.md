@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-30T00:51:11.849Z'
-dateModified: '2016-05-30T00:11:10.399Z'
+datePublished: '2016-05-30T02:07:02.718Z'
+dateModified: '2016-05-30T02:07:01.454Z'
 title: Welcome
 author:
   - name: ''
@@ -21,7 +21,7 @@ _type: Article
 ---
 # Welcome
 
-The **NT Employment Mentors Network** meets in both Darwin and Alice Springs. It has been established to facilitate an industry based practitioners group with the purpose of sharing best practise strategies that support the recruitment and retention of Indigenous job seekers, employees and students in work and education facilities in the NT.
+The **NT Employment Mentors Network** has met in both Darwin and Alice Springs. It was established to facilitate an industry based practitioners group with the purpose of sharing best practise strategies that support the recruitment and retention of Indigenous job seekers, employees and students in work and education facilities in the NT.
 
 Whether you are an Employer, a Mentor, have Students or are an Employment Service Provider, this website provides a hub for information, resources and news about mentoring in the NT for members.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4baf501c6f7dd51c62151aac4538f510c35ec78.png)
