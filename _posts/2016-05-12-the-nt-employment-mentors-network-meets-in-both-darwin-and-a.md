@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-30T04:14:28.029Z'
-dateModified: '2016-05-30T04:14:15.424Z'
+datePublished: '2016-05-30T07:05:50.027Z'
+dateModified: '2016-05-30T07:05:42.019Z'
 title: Welcome
 author:
   - name: ''
@@ -15,8 +16,7 @@ sourcePath: _posts/2016-05-12-the-nt-employment-mentors-network-meets-in-both-da
 authors: []
 publisher: null
 starred: true
-url: the-nt-employment-mentors-network-meets-in-both-darwin-and-a/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Welcome
