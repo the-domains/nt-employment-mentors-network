@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-30T09:46:03.959Z'
-dateModified: '2016-05-30T09:45:51.370Z'
+datePublished: '2016-05-30T11:43:58.014Z'
+dateModified: '2016-05-30T11:43:51.737Z'
 title: Resources
 author: []
 sourcePath: _posts/2016-05-12-resources.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: resources/index.html
 _type: Article
 
