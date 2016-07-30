@@ -1,20 +1,4 @@
-name: NT Employment Mentors Network
-favicon: null
-layout_spectrum: 0.67298
 typography_spectrum: 0.2995740631595254
-title: NT Employment Mentors Network
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-72902203-3
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,20 @@ color:
   lightness: 0.5
   saturation: 0.0625
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.67298
+analytics:
+  google: UA-72902203-3
+  facebook: null
+  twitter: null
+name: NT Employment Mentors Network
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: NT Employment Mentors Network
 purpose: []
