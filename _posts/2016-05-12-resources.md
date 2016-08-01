@@ -1,17 +1,20 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-05-30T11:43:58.014Z'
-dateModified: '2016-05-30T11:43:51.737Z'
-title: Resources
-author: []
+datePublished: '2016-08-01T03:35:18.180Z'
 sourcePath: _posts/2016-05-12-resources.md
+inFeed: true
 authors: []
-publisher: null
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-01T03:35:17.169Z'
+title: Resources
+publisher: {}
+description: >-
+  Mentor Guides, Training & Programs, Benchmarking, Agreements & Interesting
+  Websites
+inLanguage: null
+inNav: false
 starred: false
 url: resources/index.html
 _type: Article
@@ -19,13 +22,9 @@ _type: Article
 ---
 # Resources
 
-****
+Mentor Guides, Training & Programs, Benchmarking, Agreements & Interesting Websites
 
-[****][0]
-
-[**Central Australian Mentors Services Directory- **available via Dropbox][0][****][0]
-
-****
+**[Central Australian Mentors Services Directory- ][0]**[available via Dropbox][0]
 
 **Guides**
 
@@ -34,8 +33,6 @@ _type: Article
 [Friends of Justice Action Mentoring- Mentor Handbook 2008][2]
 
 [Mentoring Made Easy- A Practical Guide][3]
-
-****
 
 **Training & Programs**
 
@@ -47,21 +44,15 @@ _type: Article
 
 [Training New Mentors- Effective Strategies, Youth Mentoring][7]
 
-****
-
 **Benchmarking**
 
 [Australian Youth Mentoring Benchmarks][8]
-
-****
 
 **Workforce Development**
 
 [WA Indigenous Workforce Development Strategy][9]
 
 [RIO Tinto Indigenous Employment][10]
-
-****
 
 **Agreements**
 
@@ -70,8 +61,6 @@ _type: Article
 [Mentoring Agreement Template][12]
 
 [Negotiating an Agreement][13]
-
-****
 
 **Interesting Websites**
 
@@ -84,8 +73,6 @@ _type: Article
 [Mark Le Messurier (In-school mentoring)][17]
 
 [Training WA Aboriginal Workforce Development Centre][18]
-
-****
 
 **Other Networks**
 
